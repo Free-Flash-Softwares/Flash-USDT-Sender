@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Flash USDT</string>
+    <string name="node_status_online">NODE V2.5 ONLINE</string>
+    <string name="prompt_access_key">What is your access key?</string>
+    <string name="hint_access_key">Access Key*</string>
+    <string name="helper_min_chars">Minimum 8 characters required</string>
+    <string name="action_authenticate">AUTHENTICATE</string>
+    <string name="footer_copyright">© 2025 Flash USDT</string>
+    <string name="cd_usdt_logo">USDT badge</string>
+    <string name="cd_access_key_help">Access key information</string>
+    <string name="help_access_key_message">Enter your 8-character or longer access key to authenticate.</string>
+    <string name="auth_success_message">Access key verified</string>
+    <string name="auth_invalid_message">Access key verification failed (HTTP %1$d).</string>
+    <string name="auth_network_error">Unable to verify access key. Please check your connection and try again.</string>
+    <string name="auth_error_title">Verification Failed</string>
+    <string name="auth_error_help_prompt">Get help on Telegram:</string>
+    <string name="support_telegram_url">https://t.me/FreeFlashSoftwares</string>
+    <string name="cd_telegram_icon">Telegram support</string>
+    <string name="action_get_help">Get Help</string>
+    <string name="action_dismiss">Close</string>
+    <string name="unable_to_open_link">Unable to open link</string>
+</resources>
